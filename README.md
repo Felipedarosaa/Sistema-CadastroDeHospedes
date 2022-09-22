@@ -6,5 +6,5 @@ Sistema desenvolvido para empresas do ramo da hotelaria no geral, com intuito de
   <img src="https://user-images.githubusercontent.com/101990417/190144165-7bbfd8be-8d67-434f-8c19-dbf076c7b361.png" width="400px" />
   <img src="https://user-images.githubusercontent.com/101990417/190144173-dce4cc1c-59f8-4053-9060-d4707648829a.png" width="400px" />
   <img src="https://user-images.githubusercontent.com/101990417/190144178-d94ad3ad-e13f-42f9-bd9a-56cdf72dfc08.png" width="400px" />
-</div
+</div>
 
